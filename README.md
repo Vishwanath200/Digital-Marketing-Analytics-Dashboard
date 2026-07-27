@@ -109,7 +109,7 @@ This is a beginner-level project created as part of my Power BI learning journey
 
 ## 👩‍💻 Author
 
-**Shruti Halikayi**
+**Vishwanath Halkai**
 
 Aspiring Data Analyst | Learning Power BI | Passionate about Data Visualization
 
